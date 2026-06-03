@@ -51,7 +51,9 @@ Bu proje, Portekiz ortaöğretim öğrencilerinin akademik başarısını **Kara
 | ... | (Toplam 33 özellik) | ... |
 
 ---
-https://github.com/suhailkhaleqi/Student-Performance-Prediction-Using-Decision-Tree/blob/04932add3abd195bc98b24bb92924586bc79acc5/images/1_sinif_dagilimi.png
+
+![image alt](https://github.com/suhailkhaleqi/Student-Performance-Prediction-Using-Decision-Tree/blob/04932add3abd195bc98b24bb92924586bc79acc5/images/1_sinif_dagilimi.png)
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
