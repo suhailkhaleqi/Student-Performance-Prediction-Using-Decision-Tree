@@ -78,6 +78,7 @@ Bu proje, Portekiz ortaöğretim öğrencilerinin akademik başarısını **Kara
 - Korelasyon matrisi ve ısı haritası
 - G3 ile en yüksek korelasyon gösteren özellikler
 - Çalışma süresi, devamsızlık, internet erişimi ve anne eğitiminin başarıya etkisi
+- ![image alt](https://github.com/suhailkhaleqi/Student-Performance-Prediction-Using-Decision-Tree/blob/69335790f1500d4c313a4a25c65e7772c1385993/images/3_korelasyon_matrisi.png)
 
 ### 3. Model Geliştirme
 - Karar Ağacı (Decision Tree) algoritması
